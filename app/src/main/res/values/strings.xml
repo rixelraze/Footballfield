@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Football field</string>
+
+    <string name="Down">Сброс</string>
+    <string name="Russia">Россия</string>
+    <string name="pars" translatable="false">:</string>
+
+    <string name="Goal">Гол!</string>
+    <string name="Null" translatable="false">0</string>
+    <string name="Germany">Германия</string>
+</resources>

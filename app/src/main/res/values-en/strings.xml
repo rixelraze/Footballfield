@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FootboalTabs</string>
+    <string name="Down">Drop</string>
+    <string name="Germany">Germany</string>
+    <string name="Russia">Russia</string>
+    <string name="Goal">Goal!</string>
+</resources>

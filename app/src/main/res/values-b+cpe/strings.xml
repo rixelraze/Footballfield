@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Football field</string>
+    <string name="Down">Сброс</string>
+    <string name="Germany">Германия</string>
+    <string name="Russia">Россия</string>
+    <string name="Goal">Гол!</string>
+</resources>
